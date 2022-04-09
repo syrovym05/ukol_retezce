@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\bin\Debug\ukol_retezce.exe.config
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\bin\Debug\ukol_retezce.exe
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\bin\Debug\ukol_retezce.pdb
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.Form1.resources
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.exe
+C:\Users\marsy\Source\Repos\ukol_retezce\ukol_retezce\obj\Debug\ukol_retezce.pdb
